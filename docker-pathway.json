@@ -1,6 +1,7 @@
 {
   "title": "Docker",
   "description": "Docker training",
+  "icon": "fa-katacoda",
   "courses": [
     {
       "course_id": "1-docker-first-steps",
