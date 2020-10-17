@@ -1,0 +1,11 @@
+{
+  "title": "Docker",
+  "description": "Docker training",
+  "courses": [
+    {
+      "course_id": "1-docker-first-steps",
+      "title": "Docker first steps",
+      "description": "Learn basic docker commands"
+    }
+  ]
+}
